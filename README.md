@@ -76,5 +76,10 @@ FiveM Script Developer focused on creating **modular** and **config-driven** res
 ---
 
 ## 🗺️ Activity Visual
+> Auto-generated daily by workflow.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StigmaAU/StigmaAU/output/snake.svg" alt="Contribution Snake">
+</p>
 
 ---
