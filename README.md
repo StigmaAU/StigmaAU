@@ -83,11 +83,3 @@ FiveM Script Developer focused on creating **modular** and **config-driven** res
 </p>
 
 ---
-
-<details>
-  <summary>📐 Design Notes (click to expand)</summary>
-
-- Minimal surfaces, generous spacing, strong typographic hierarchy
-- Prefer semantic commits, conventional changelogs, and typed interfaces
-- CI for readme assets keeps the profile always fresh with zero manual effort
-</details>
