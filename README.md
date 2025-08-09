@@ -3,7 +3,7 @@
 
   <!-- Typing headline -->
   <a href="https://github.com/StigmaAU">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&width=700&lines=FiveM+Script+Developer;Lua+%7C+TypeScript+%7C+Node+%7C+SQL+%7C+NUI;ox_lib+%2F+ESX+%7C+Clean%2C+performant+UX;Always+shipping+server-ready+code" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&width=700&lines=FiveM+Script+Developer;Lua+%7C+Node+%7C+SQL+%7C+NUI;ox_lib+%2F+ESX;Always+shipping+server-ready+code" alt="Typing SVG">
   </a>
 
   <!-- Minimal badges -->
