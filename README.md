@@ -3,7 +3,7 @@
 
   <!-- Typing headline -->
   <a href="https://github.com/StigmaAU">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&width=700&lines=FiveM+Script+Developer;Lua+%7C+TypeScript+%7C+Node+%7C+SQL+%7C+NUI;ox_lib+%2F+ox_core+%7C+Clean%2C+performant+UX;Always+shipping+server-ready+code" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=600&width=700&lines=FiveM+Script+Developer;Lua+%7C+TypeScript+%7C+Node+%7C+SQL+%7C+NUI;ox_lib+%2F+ESX+%7C+Clean%2C+performant+UX;Always+shipping+server-ready+code" alt="Typing SVG">
   </a>
 
   <!-- Minimal badges -->
@@ -18,7 +18,7 @@
 ---
 
 ## 👋 About
-FiveM Script Developer focused on **modular**, **config-driven** resources. I work across Lua/TS, ox_lib/ox_core, SQL, and NUI to ship robust systems (staff tooling, XP/skills, HUDs, cameras, and dev utilities).
+FiveM Script Developer focused on creating **modular** and **config-driven** resources. I work across Lua, ox_lib, SQL, ESX, and NUI to ship robust systems (staff tooling, XP/skills, HUDs, cameras, and dev utilities).
 
 - 🧩 Emphasis on **maintainable**, **well-documented** code
 - ⚙️ Prefer **server-side logic**, **statebags**, and clean client abstractions
